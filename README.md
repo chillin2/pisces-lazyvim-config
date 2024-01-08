@@ -4,14 +4,14 @@ wsl
 -------------------------------------------------  
 ```
 rm -rf ~/.config/nvim
-git clone https://github.com/chillin2/pisces-lazyvim.git ~/.config/nvim
+git clone https://github.com/chillin2/pisces-lazyvim-config.git ~/.config/nvim
 ```
 
 windows powershell 
 -------------------------------------------------  
 ```
 Remove-Item $env:LOCALAPPDATA\nvim -Recurse -Force
-git clone https://github.com/chillin2/pisces-lazyvim.git $env:LOCALAPPDATA\nvim
+git clone https://github.com/chillin2/pisces-lazyvim-config.git $env:LOCALAPPDATA\nvim
 ```
 
 ## Requirement  
