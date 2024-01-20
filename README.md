@@ -1,5 +1,4 @@
-# pisces-lazyvim  
-
+# pisces-lazyvim-config
 wsl 
 -------------------------------------------------  
 ```
